@@ -15,6 +15,8 @@ To begin:
   -Run bower install dependencies needed (jquery, bootstrap, etc)
 
   -Run bower init
+  
+  -Run bowerCSS
 
   -Run gulp build
 
